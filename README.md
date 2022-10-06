@@ -1,1 +1,1 @@
-# Belt-Conveyor-CalcApp
+# Belt Conveyor CalcApp
