@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d537e9b7-0965-4c4c-bcf1-b0ec4a5be0a5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Belt-Conveyor-CalcApp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Code/EnterValues.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Code/Formulas.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Code/Header.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Code/main.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pics/AllForms.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pics/App_EN.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pics/BeltConv.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pics/Form_A.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pics/Form_E.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pics/AppCZ.png" beforeDir="false" afterPath="$PROJECT_DIR$/Pics/App_CZ.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pics/AppEN.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2FlKV1VOsAsz3N3uyL1SSlW7UkS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/ubuntu/PycharmProjects/Belt-Conveyor-CalcApp/Code",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Code" />
+      <recent name="$PROJECT_DIR$/Pics" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Pics" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d537e9b7-0965-4c4c-bcf1-b0ec4a5be0a5" name="Changes" comment="" />
+      <created>1665061252528</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665061252528</updated>
+      <workItem from="1665061258926" duration="1382000" />
+      <workItem from="1665354341992" duration="352000" />
+      <workItem from="1665357643090" duration="4553000" />
+      <workItem from="1665570532310" duration="612000" />
+      <workItem from="1665598926295" duration="12358000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
