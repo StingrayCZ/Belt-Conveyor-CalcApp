@@ -46,7 +46,7 @@ for(i = 1; i <= 9; i++)
         grade = i;
         switch(grade)
         {
-        case 1 : // Osova vzdalenost bubnu (mm)
+        case 1 : // Pulley axial distance (mm)
         ...
         break;
         
