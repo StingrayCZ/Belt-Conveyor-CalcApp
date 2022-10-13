@@ -9,10 +9,11 @@ The task of the application is calculating the basic parameters of the belt conv
   <img alt="" src="./Pics/BeltConv.png" width="600" />
 </p>
 
-In the image below, we see the interface of the application. TThe input data and the resulting values are shown here together for better clarity. The application is created in two language versions. Language switching is possible using```#DEFINE``` v header file _Header.h_.
+In the image below, we see the interface of the application. TThe input data and the resulting values are shown here together for better clarity. The application is created in two language versions (EN and CZ). Language switching is possible using```#DEFINE``` v header file _Header.h_.
 
 <p float="left">
-  <img alt="" src="./Pics/App_CZ.png" width="442.2" />
+
+[//]: # (  <img alt="" src="./Pics/App_CZ.png" width="442.2" />)
   <img alt="" src="./Pics/App_EN.png" width="440" />
 </p>
 
